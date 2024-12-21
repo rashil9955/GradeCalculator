@@ -27,7 +27,7 @@ Contributions are welcome! Feel free to fork the repo, make changes, and submit 
 This project is licensed under the MIT License.
 
 ## 📧 Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rashil-shibakoti) or open an issue in this repository.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rashilshibakoti/) or open an issue in this repository.
 
 ---
 
